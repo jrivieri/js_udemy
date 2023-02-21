@@ -1,2 +1,4 @@
 
-console.log(123456, 15.85, 'Antonio');
+
+console.log('Meu nome é "NOME". Estou aprendendo JavaScript às', 10, 'da manhã.');
+
